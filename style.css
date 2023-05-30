@@ -1,3 +1,37 @@
-p{
-    color: rgba(3, 28, 255, 0.582);
+p {
+    color: rgba(37, 68, 68, 0.911);
+}
+
+body {
+    font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+    font-size: 80px;
+}
+
+.num0 {
+    color: chocolate;
+}
+
+section {
+    display: flex;
+}
+
+.num1 {
+    width: 50%;
+    padding: 5%;
+}
+
+.num1 img {
+    width: 50%;
+}
+
+.hire-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgba(212, 159, 61, 0.644), rgba(224, 107, 24, 0.842));
+    color: azure;
+    font-weight: 600;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
